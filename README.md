@@ -1,5 +1,5 @@
 # Undergrad-thesis-entanglement-dynamics
-undergraduate thesis, simulations of entanglement dynamics and literature review by Jinsu Zhang, Tsinghua University.
+Undergraduate thesis, simulations of entanglement dynamics and literature review.
 
 Simulated quantities (Entanglement Entropy, Mutual Information, etc.) to reproduce Entanglement Transition in Random Unitary Circuit.
 
